@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\DEV\AutoCaro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\Interop.AutoItX3Lib.dll
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\DEV\AutoCaro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DEV\AutoCaro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
