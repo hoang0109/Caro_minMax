@@ -20,3 +20,14 @@ D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Prop
 D:\DEV\AutoCaro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\DEV\AutoCaro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 D:\DEV\AutoCaro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Dev\Caro_minMax\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dev\Caro_minMax\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Dev\Caro_minMax\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dev\Caro_minMax\WindowsFormsApplication1\obj\Debug\Interop.AutoItX3Lib.dll

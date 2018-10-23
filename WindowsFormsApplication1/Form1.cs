@@ -137,9 +137,7 @@ namespace WindowsFormsApplication1
         private void panel1_MouseMove(object sender, MouseEventArgs e)
         {
 
-            tip.AutomaticDelay=100;
-            IWin32Window win = this;
-            tip.Show(crChess.XacDinhCacNuocXungQuanh(e.X, e.Y,grs), win,e.X,e.Y);
+            
 
 
         }

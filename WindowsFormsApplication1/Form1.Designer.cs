@@ -28,14 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.button1 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.Bt_2man = new System.Windows.Forms.Button();
             this.Bt_undo = new System.Windows.Forms.Button();
             this.bt_ManvsCOm = new System.Windows.Forms.Button();
             this.Redo = new System.Windows.Forms.Button();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -137,7 +135,6 @@
         private System.Windows.Forms.Button Bt_undo;
         private System.Windows.Forms.Button bt_ManvsCOm;
         private System.Windows.Forms.Button Redo;
-        public System.Windows.Forms.ToolTip toolTip1;
         public System.Windows.Forms.Label label1;
     }
 }
